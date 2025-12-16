@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <stdio.h>
 #include <cmath>
-Adding comments
+Editing text
 int main() {
 	int choice;
 	int usernumber;
